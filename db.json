@@ -1,0 +1,13 @@
+{
+  "filters" :{
+    "status": "success",
+    "data": [
+      { "category": "Food", "isNew" : false},
+      { "category": "Finance", "isNew" : false},
+      { "category": "Health", "isNew" : false},
+      { "category": "Education", "isNew" : true},
+      { "category": "Technology", "isNew" : false},
+      { "category": "Business", "isNew" : true}
+    ]
+  }
+}
